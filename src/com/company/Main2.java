@@ -8,6 +8,9 @@ public class Main2 {
         int x = 4;
         int d1 = a + b*x*x + 2*c*x;
 
+        System.out.print("asd" == "asd");
+        Main.diskrim(a,b,c,x);
+
         int a2 = 2;
         int b2 = 3;
         int c2 = 1;
